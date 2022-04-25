@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to my page!,I'm Al Ruheil ❤️</h1>
+<h1 align="center">Welcome to my page!, I'm Al Ruheil ❤️</h1>
 <h3 align="center">A #CS student who loves to code :)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ruheil&label=Profile%20views&color=0e75b6&style=flat" alt="ruheil" /> </p>
